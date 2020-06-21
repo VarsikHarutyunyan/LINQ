@@ -1,0 +1,15 @@
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.exe
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.deps.json
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.runtimeconfig.json
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.dll
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.pdb
+C:\Users\varsi\source\repos\LINQ\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\LINQ\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.AssemblyInfo.cs
+C:\Users\varsi\source\repos\LINQ\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.dll
+C:\Users\varsi\source\repos\LINQ\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.pdb
+C:\Users\varsi\source\repos\LINQ\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.genruntimeconfig.cache
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\LINQ.exe
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\LINQ.dll
+C:\Users\varsi\source\repos\LINQ\Aggregate\bin\Debug\netcoreapp3.1\LINQ.pdb
+C:\Users\varsi\source\repos\LINQ\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.csproj.CopyComplete

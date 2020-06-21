@@ -1,0 +1,11 @@
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\bin\Debug\netcoreapp3.1\ExceptIntersectUnion.exe
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\bin\Debug\netcoreapp3.1\ExceptIntersectUnion.deps.json
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\bin\Debug\netcoreapp3.1\ExceptIntersectUnion.runtimeconfig.json
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\bin\Debug\netcoreapp3.1\ExceptIntersectUnion.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\bin\Debug\netcoreapp3.1\ExceptIntersectUnion.dll
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\bin\Debug\netcoreapp3.1\ExceptIntersectUnion.pdb
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\obj\Debug\netcoreapp3.1\ExceptIntersectUnion.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\obj\Debug\netcoreapp3.1\ExceptIntersectUnion.AssemblyInfo.cs
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\obj\Debug\netcoreapp3.1\ExceptIntersectUnion.dll
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\obj\Debug\netcoreapp3.1\ExceptIntersectUnion.pdb
+C:\Users\varsi\source\repos\LINQ\ExceptIntersectUnion\obj\Debug\netcoreapp3.1\ExceptIntersectUnion.genruntimeconfig.cache

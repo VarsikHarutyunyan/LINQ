@@ -1,0 +1,16 @@
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\LINQ.exe
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\AllAndAny.exe
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\AllAndAny.deps.json
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\AllAndAny.runtimeconfig.json
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\AllAndAny.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\AllAndAny.dll
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\AllAndAny.pdb
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\LINQ.dll
+C:\Users\varsi\source\repos\LINQ\AllAndAny\bin\Debug\netcoreapp3.1\LINQ.pdb
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.AssemblyInfo.cs
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.csproj.CopyComplete
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.dll
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.pdb
+C:\Users\varsi\source\repos\LINQ\AllAndAny\obj\Debug\netcoreapp3.1\AllAndAny.genruntimeconfig.cache

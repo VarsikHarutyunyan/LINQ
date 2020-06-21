@@ -1,0 +1,12 @@
+C:\Users\varsi\source\repos\LINQ\SkipTake\bin\Debug\netcoreapp3.1\SkipTake.exe
+C:\Users\varsi\source\repos\LINQ\SkipTake\bin\Debug\netcoreapp3.1\SkipTake.deps.json
+C:\Users\varsi\source\repos\LINQ\SkipTake\bin\Debug\netcoreapp3.1\SkipTake.runtimeconfig.json
+C:\Users\varsi\source\repos\LINQ\SkipTake\bin\Debug\netcoreapp3.1\SkipTake.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\LINQ\SkipTake\bin\Debug\netcoreapp3.1\SkipTake.dll
+C:\Users\varsi\source\repos\LINQ\SkipTake\bin\Debug\netcoreapp3.1\SkipTake.pdb
+C:\Users\varsi\source\repos\LINQ\SkipTake\obj\Debug\netcoreapp3.1\SkipTake.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\LINQ\SkipTake\obj\Debug\netcoreapp3.1\SkipTake.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\LINQ\SkipTake\obj\Debug\netcoreapp3.1\SkipTake.AssemblyInfo.cs
+C:\Users\varsi\source\repos\LINQ\SkipTake\obj\Debug\netcoreapp3.1\SkipTake.dll
+C:\Users\varsi\source\repos\LINQ\SkipTake\obj\Debug\netcoreapp3.1\SkipTake.pdb
+C:\Users\varsi\source\repos\LINQ\SkipTake\obj\Debug\netcoreapp3.1\SkipTake.genruntimeconfig.cache

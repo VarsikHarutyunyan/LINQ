@@ -1,0 +1,11 @@
+C:\Users\varsi\source\repos\LINQ\Join\bin\Debug\netcoreapp3.1\Join.exe
+C:\Users\varsi\source\repos\LINQ\Join\bin\Debug\netcoreapp3.1\Join.deps.json
+C:\Users\varsi\source\repos\LINQ\Join\bin\Debug\netcoreapp3.1\Join.runtimeconfig.json
+C:\Users\varsi\source\repos\LINQ\Join\bin\Debug\netcoreapp3.1\Join.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\LINQ\Join\bin\Debug\netcoreapp3.1\Join.dll
+C:\Users\varsi\source\repos\LINQ\Join\bin\Debug\netcoreapp3.1\Join.pdb
+C:\Users\varsi\source\repos\LINQ\Join\obj\Debug\netcoreapp3.1\Join.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\LINQ\Join\obj\Debug\netcoreapp3.1\Join.AssemblyInfo.cs
+C:\Users\varsi\source\repos\LINQ\Join\obj\Debug\netcoreapp3.1\Join.dll
+C:\Users\varsi\source\repos\LINQ\Join\obj\Debug\netcoreapp3.1\Join.pdb
+C:\Users\varsi\source\repos\LINQ\Join\obj\Debug\netcoreapp3.1\Join.genruntimeconfig.cache

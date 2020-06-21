@@ -1,0 +1,11 @@
+C:\Users\varsi\source\repos\LINQ\Filtration\bin\Debug\netcoreapp3.1\Filtration.exe
+C:\Users\varsi\source\repos\LINQ\Filtration\bin\Debug\netcoreapp3.1\Filtration.deps.json
+C:\Users\varsi\source\repos\LINQ\Filtration\bin\Debug\netcoreapp3.1\Filtration.runtimeconfig.json
+C:\Users\varsi\source\repos\LINQ\Filtration\bin\Debug\netcoreapp3.1\Filtration.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\LINQ\Filtration\bin\Debug\netcoreapp3.1\Filtration.dll
+C:\Users\varsi\source\repos\LINQ\Filtration\bin\Debug\netcoreapp3.1\Filtration.pdb
+C:\Users\varsi\source\repos\LINQ\Filtration\obj\Debug\netcoreapp3.1\Filtration.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\LINQ\Filtration\obj\Debug\netcoreapp3.1\Filtration.AssemblyInfo.cs
+C:\Users\varsi\source\repos\LINQ\Filtration\obj\Debug\netcoreapp3.1\Filtration.dll
+C:\Users\varsi\source\repos\LINQ\Filtration\obj\Debug\netcoreapp3.1\Filtration.pdb
+C:\Users\varsi\source\repos\LINQ\Filtration\obj\Debug\netcoreapp3.1\Filtration.genruntimeconfig.cache
